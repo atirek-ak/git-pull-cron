@@ -1,2 +1,1 @@
-/Users/atirekkumar/PROJECTS/comic-script
-/Users/atirekkumar/PROJECTS/git-pull-cron
+
